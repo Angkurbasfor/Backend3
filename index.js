@@ -12,7 +12,7 @@ dotenv.config();
 // --- CONFIGURATION ---
 const BOT_TOKEN = process.env.BOT_TOKEN || "7763480909:AAEsTt5O3eaI72q-MuraF7qeLxKAOfKN3_c";
 const REWARD_AMOUNT = 500; // Coins given to referrer
-const APP_URL = "https://angkurbasfor.github.io/Telegram-Web-App-Final/";
+const APP_URL = "https://angkurbasfor.github.io/Telegram-Mini-App-3/";
 
 const firebaseConfig = {
   apiKey: "AIzaSyD6Zl8zG19cC8QcfzBYKGBhCCi6ijPjGWw",
